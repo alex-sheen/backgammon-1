@@ -7,3 +7,6 @@ Typed/Racket multiplayer backgammon program with support for undoing moves and s
 
 ## Classic
 ![Classic style](project3/classic-style.png)
+
+## Serialization
+To test the de-serialization, you can load the **saved-game** file with the backgammon program.
