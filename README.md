@@ -18,7 +18,7 @@ The final project for UChicago's Intro to Computer Science I course: multiplayer
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Have fun!
 
 ### Prerequisites
-Download the `[DrRacket]`(https://download.racket-lang.org) IDE.
+Download the `DrRacket` IDE [here](https://download.racket-lang.org).
 
 ### Run
 1. Clone this repo into your folder of choice.
