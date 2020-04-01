@@ -9,6 +9,9 @@ Typed/Racket multiplayer backgammon program with support for undoing moves and s
 ![Final game, Original style](images/final.png)
 
 ## Classic
+```
+(run classic)
+```
 ![Classic style](images/classic-style.png)
 
 ## How to Run
