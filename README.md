@@ -26,7 +26,7 @@ Download the `DrRacket` IDE [here](https://download.racket-lang.org).
     $ git clone https://github.com/jackandthebean/backgammon.git
     ```
 2. In the `project3` folder, open the `project3-revised.rkt` file in `DrRacket` and click **Run**.
-3. In the `DrRacket` _interactions window_, make the function call `(run style)`, replacing "style" with your preferred style (`original` or `classic`).
+3. In the `DrRacket` _interactions window_, make the function call `(run STYLE)`, replacing "STYLE" with your preferred style (`original` or `classic`).
 
 ### Play
 * Once a game is begun, it can be stored by striking the `s` key.
