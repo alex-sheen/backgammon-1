@@ -15,7 +15,7 @@ Typed/Racket multiplayer backgammon program with support for undoing moves and s
 ![Classic style](images/classic-style.png)
 
 ## How to Run
-1. Run the **project3-revised.rkt** file in the [DrRacket](https://download.racket-lang.org) programming environment.
+1. Open the **project3-revised.rkt** file in the [DrRacket](https://download.racket-lang.org) programming environment and click **Run**.
 2. In the _interactions window_ of the DrRacket IDE, make the function call `(run style)`, replacing "style" with your preferred style (`original` or `classic`).
 3. Once a game is begun, it can be stored by striking the `s` key.
 4. A previously stored game may be loaded by striking the `l` key. You will need to select the stored-game file for loading.
