@@ -24,3 +24,4 @@ Typed/Racket multiplayer backgammon program with support for undoing moves and s
 4. Once a game is begun, it can be stored by striking the `s` key.
 5. A previously stored game may be loaded by striking the `l` key. You will need to select the stored-game file for loading. The `project3` folder includes a sample `saved-game` file that can be loaded.
 6. Moves within a game may be undone by striking the `u` key.
+7. Have fun!
