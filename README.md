@@ -16,9 +16,9 @@ Typed/Racket multiplayer backgammon program with support for undoing moves and s
 
 ## How to Run
 1. Clone this repo into your folder of choice.
-   ```
-   $ git clone https://github.com/jackandthebean/backgammon.git
-   ```
+    ```
+    $ git clone https://github.com/jackandthebean/backgammon.git
+    ```
 2. In the `project3` folder, open the `project3-revised.rkt` file in the [DrRacket](https://download.racket-lang.org) programming environment and click **Run**.
 3. In the _interactions window_ of the DrRacket IDE, make the function call `(run style)`, replacing "style" with your preferred style (`original` or `classic`).
 4. Once a game is begun, it can be stored by striking the `s` key.
