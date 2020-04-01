@@ -34,4 +34,4 @@ Download the `[DrRacket]`(https://download.racket-lang.org) IDE.
 * Moves within a game may be undone by striking the `u` key.
 
 ## Built With
-* [DrRacket](https://download.racket-lang.org) – Racket language IDE
+* [DrRacket](https://download.racket-lang.org) – IDE for Racket languages
